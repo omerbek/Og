@@ -15,9 +15,7 @@
 
 ###Public RPC
 
-https://og-testnet-rpc.corenode.info/
 
-https://og-testnet-api.corenode.info/
 
 ### 🚧Required installations
 ```
